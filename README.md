@@ -16,4 +16,4 @@ We want to offer merging playlists between users.
 
 API Documentation link: https://developer.spotify.com/documentation/web-api
 
-![](/week3design/Screenshots/Screen Shot 2023-09-26 at 9.54.18 PM.png)
+![](/week3de3sign/Screenshots/Screen Shot 2023-09-26 at 9.54.18 PM.png)
