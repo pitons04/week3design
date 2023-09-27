@@ -16,5 +16,5 @@ We want to offer merging playlists between users.
 
 API Documentation link: https://developer.spotify.com/documentation/web-api
 
-Authorization token generation:
-![Screenshot of token generation](https://github.com/pitons04/week3design/blob/main/Screenshots/Screen%20Shot%202023-09-26%20at%209.54.18%20PM.png)
+Screenshots of Trying Spotify API Through Postman are in "Screenshots" folder of this git.
+We generated an auth key to use spotify. Then we made a POST request to create playlist "CSC207 Playlist1" for user "eug."
