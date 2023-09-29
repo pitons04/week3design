@@ -17,5 +17,8 @@ We want to offer merging playlists between users.
 API Documentation link: https://developer.spotify.com/documentation/web-api
 
 ![Screenshot of token generation](https://github.com/pitons04/week3design/blob/main/Screenshots/Postman%20Auth%2C%20Generating%20Token%20For%20Spotify%20API%20Screenshot%20Part%201%20-%20CSC207%20Group%20229%20.png)
-Screenshots of Trying Spotify API Through Postman are in "Screenshots" folder of this git.
-We generated an auth key to use spotify. Then we made a POST request to create playlist "CSC207 Playlist1" for user "eug."
+![Screenshot of token generation pt.2](https://github.com/pitons04/week3design/blob/main/Screenshots/Postman%20Auth%2C%20Generating%20Token%20For%20Spotify%20API%20Screenshot%20Part%202%20-%20CSC207%20Group%20229%20.png)
+![Screenshot of playlist creation](https://github.com/pitons04/week3design/blob/main/Screenshots/Creating%20A%20Playlist%20Through%20Spotify%20API%20With%20Postman%2C%20POST%20and%20Body%20Screenshot%20-%20CSC207%20Group%20229%20.png)
+![Playlist creation result](https://github.com/pitons04/week3design/blob/main/Screenshots/Creating%20A%20Playlist%20Through%20Spotify%20API%20With%20Postman%2C%20POST%2C%20Params%20and%20Result%20Screenshot%20-%20CSC207%20Group%20229%20.png)
+Screenshots of Trying Spotify API Through Postman are in the "Screenshots" folder of this git.
+We generated an auth key to use Spotify. Then we made a POST request to create a playlist "CSC207 Playlist1" for user "eug."
