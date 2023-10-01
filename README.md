@@ -16,6 +16,10 @@ We want to offer merging playlists between users.
 
 API Documentation link: https://developer.spotify.com/documentation/web-api
 
+## Technical Issues:
+The compiler keeps preventing us from doing an API call because of a "deprecated method", but it doesn't say which method we used is causing the issue. Is there any way to find out what the deprecated method is?
+
+## Screenshots of making a call on Postman:
 ![Screenshot of token generation](https://github.com/pitons04/week3design/blob/main/Screenshots/Postman%20Auth%2C%20Generating%20Token%20For%20Spotify%20API%20Screenshot%20Part%201%20-%20CSC207%20Group%20229%20.png)
 ![Screenshot of token generation pt.2](https://github.com/pitons04/week3design/blob/main/Screenshots/Postman%20Auth%2C%20Generating%20Token%20For%20Spotify%20API%20Screenshot%20Part%202%20-%20CSC207%20Group%20229%20.png)
 ![Screenshot of playlist creation](https://github.com/pitons04/week3design/blob/main/Screenshots/Creating%20A%20Playlist%20Through%20Spotify%20API%20With%20Postman%2C%20POST%20and%20Body%20Screenshot%20-%20CSC207%20Group%20229%20.png)
